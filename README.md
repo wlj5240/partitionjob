@@ -3,6 +3,8 @@ spring boot上构建spring batch远程分区Step，分布式多机处理，提�
 
 批处理是企业级业务系统不可或缺的一部分，spring batch是一个轻量级的综合性批处理框架,可用于开发企业信息系统中那些至关重要的数据批量处理业务.SpringBatch基于POJO和Spring框架,相当容易上手使用,让开发者很容易地访问和利用企业级服务.spring batch是具有高可扩展性的框架,简单的批处理,复杂的大数据批处理作业都可以通过SpringBatch框架来实现。
 
+> 欢迎加入开源技术QQ群一起交流：613025121
+
 # 项目特色
 本项目不仅搭建了一个完整的可直接运行的spring batch远程分区处理实例，而且基于spring profile控制，可实现如下模式部署
 
